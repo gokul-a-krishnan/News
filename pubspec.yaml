@@ -1,0 +1,25 @@
+name: study_monk
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  http:
+  hive:
+  hive_flutter:
+  path_provider:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator:
+  build_runner:
+
+flutter:
+  uses-material-design: true
